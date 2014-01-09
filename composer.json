@@ -1,0 +1,17 @@
+{
+    "name": "savaskoc/role-manager",
+    "description": "Role management library for PHP",
+    "license": "Apache-2",
+    "authors": [
+        {
+            "name": "Savas KOC",
+            "email": "savaskoc11@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-0": {
+            "Hyperion": "src/"
+        }
+    }
+}
